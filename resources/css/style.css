@@ -1,0 +1,32 @@
+body {
+font-style: Helvetica;
+font-size: 14px;
+text-align: center;
+}
+.top-navigation {
+  color: white;
+  background-image: url(/C:/Users/Ryan/Documents/Katja/Projects/broadway/resources/images/the-flatiron-building.png);
+}
+h1  {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+a {
+  font-size: 18px;
+  color: white;
+}
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
